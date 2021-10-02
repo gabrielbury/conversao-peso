@@ -31,4 +31,4 @@ spec:
       name: http
       nodePort: 30001
       targetPort: 80
-  type: NodePort
+  type: LoadBalancer
